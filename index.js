@@ -1,1 +1,1 @@
-module.exports.IniConfig = require('./lib/IniConfig');
+module.exports = require('./lib/IniConfig');
