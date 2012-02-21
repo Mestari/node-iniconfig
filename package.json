@@ -1,0 +1,18 @@
+{
+  "author": "appr <appr@appr.me> (http://appr.me)",
+  "name": "iniconfig",
+  "description": "Simple iniparser-based iniconfig parser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/orenlinux/node-iniconfig",
+  "repository": {
+    "url": "git://github.com/orenlinux/node-iniconfig.git"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+      "iniparser": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
